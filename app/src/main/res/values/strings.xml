@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Depth of Field Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Depth of Field Calculator</string>
+    <string name="second_fragment_label">Calculate DoF</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_lens__details">Lens_Details</string>
+
+    //in main activity
+    <string name="select">Select a lens to use: </string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="optional">Optional Features: </string>
+    <string name="op1">1. Error Checking Input</string>
+    <string name="op2">2. Save a user defined Len</string>
+    <string name="op3">3. Edit and Delete user defined Len</string>
+    <string name="op4">4. Empty State</string>
+
+    //in Lens details
+    <string name="make">Make</string>
+    <string name="ex_make">ex: Canon</string>
+    <string name="focal">Focal Length [mm]</string>
+    <string name="ex_focal">ex: 200 for 200mm</string>
+    <string name="aperture">Aperture</string>
+    <string name="ex_aperture">ex: 2.8 for F2.8</string>
+    <string name="save_lens">SAVE</string>
+    <string name="cancel_lens">CANCEL</string>
+    <string name="title_activity_calculate_do_f">CalculateDoF</string>
+
+
+    //in calculator
+    <string name="NFD">Near Focal Distance: </string>
+    <string name="FFD">Far Focal Distance: </string>
+    <string name="DoF">Depth of Field: </string>
+    <string name="HD">Hyperfocal Distance: </string>
+    <string name="photo_with">Photo details with: </string>
+    <string name="COC">Circle of Confusion [m]: </string>
+    <string name="DTS">Distance to subject [m]: </string>
+    <string name="SA">Selected aperture: </string>
+    <string name="Cal">Calculate</string>
+</resources>
